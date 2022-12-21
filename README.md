@@ -2,7 +2,7 @@
 
 **Description of files:**
 - `elon_basic.json`: contains basic information on Elon Musk's account
-- `followers.csv`: contains a list of Elon's followers (only ~1 million duq to GitHub file size restrictions)
+- `followers.csv`: contains a list of Elon's followers (only ~1 million due to GitHub file size restrictions)
 - `following.csv`: contains a list of Elon's followed accounts over time.
 - `following_latest.csv`: contains the list of accounts followed as of today.
 - `public_metrics.csv`: contains a list of Elon's public metrics over time.
